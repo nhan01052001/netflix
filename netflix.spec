@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\nhan.nguyen\\Desktop\\netflix\\netflix.ico'],
+    icon=['netflix.ico'],
 )

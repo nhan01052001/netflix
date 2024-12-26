@@ -1,7 +1,7 @@
 import webbrowser
 
 # URL bạn muốn mở
-url = "https://www.facebook.com/"
+url = "https://vlxx.tech/"
 
 # Mở trình duyệt
 webbrowser.open(url)
